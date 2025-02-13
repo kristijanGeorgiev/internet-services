@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\bin\Debug\net8.0\MyFirstConsoleG2.exe
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\bin\Debug\net8.0\MyFirstConsoleG2.deps.json
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\bin\Debug\net8.0\MyFirstConsoleG2.runtimeconfig.json
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\bin\Debug\net8.0\MyFirstConsoleG2.dll
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\bin\Debug\net8.0\MyFirstConsoleG2.pdb
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.AssemblyInfo.cs
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.dll
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\refint\MyFirstConsoleG2.dll
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.pdb
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\MyFirstConsoleG2.genruntimeconfig.cache
+C:\Users\Student\Documents\internet services\exercises\MyFirstConsoleG2\MyFirstConsoleG2\obj\Debug\net8.0\ref\MyFirstConsoleG2.dll

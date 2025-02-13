@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\bin\Debug\net8.0\MySecondConsoleAppG2.exe
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\bin\Debug\net8.0\MySecondConsoleAppG2.deps.json
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\bin\Debug\net8.0\MySecondConsoleAppG2.runtimeconfig.json
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\bin\Debug\net8.0\MySecondConsoleAppG2.dll
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\bin\Debug\net8.0\MySecondConsoleAppG2.pdb
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.AssemblyInfo.cs
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.dll
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\refint\MySecondConsoleAppG2.dll
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.pdb
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\MySecondConsoleAppG2.genruntimeconfig.cache
+C:\Users\Student\Documents\internet services\exercises\MySecondConsoleAppG2\MySecondConsoleAppG2\obj\Debug\net8.0\ref\MySecondConsoleAppG2.dll
