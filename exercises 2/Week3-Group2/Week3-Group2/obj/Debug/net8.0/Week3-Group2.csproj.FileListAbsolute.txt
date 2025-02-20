@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\bin\Debug\net8.0\Week3-Group2.exe
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\bin\Debug\net8.0\Week3-Group2.deps.json
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\bin\Debug\net8.0\Week3-Group2.runtimeconfig.json
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\bin\Debug\net8.0\Week3-Group2.dll
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\bin\Debug\net8.0\Week3-Group2.pdb
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.AssemblyInfo.cs
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.dll
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\refint\Week3-Group2.dll
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.pdb
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\Week3-Group2.genruntimeconfig.cache
+C:\Users\Student\Documents\internet services\exercises 2\Week3-Group2\Week3-Group2\obj\Debug\net8.0\ref\Week3-Group2.dll
