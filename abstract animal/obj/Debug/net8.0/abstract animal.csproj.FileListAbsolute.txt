@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\bin\Debug\net8.0\abstract animal.exe
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\bin\Debug\net8.0\abstract animal.deps.json
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\bin\Debug\net8.0\abstract animal.runtimeconfig.json
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\bin\Debug\net8.0\abstract animal.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\bin\Debug\net8.0\abstract animal.pdb
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\refint\abstract animal.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.pdb
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\abstract animal.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\abstract animal\obj\Debug\net8.0\ref\abstract animal.dll
