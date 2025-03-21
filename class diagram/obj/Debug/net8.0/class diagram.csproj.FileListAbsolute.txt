@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\bin\Debug\net8.0\class diagram.exe
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\bin\Debug\net8.0\class diagram.deps.json
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\bin\Debug\net8.0\class diagram.runtimeconfig.json
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\bin\Debug\net8.0\class diagram.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\bin\Debug\net8.0\class diagram.pdb
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\refint\class diagram.dll
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.pdb
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\class diagram.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\UAC\semestar - 6\Internet Services\lectures\class diagram\obj\Debug\net8.0\ref\class diagram.dll
